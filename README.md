@@ -1,5 +1,4 @@
 flashNfun Online Gaming Website
-Tech used - HTML, CSS, JAVASCRIPT, SQL, JQUERY and JSON
 
 * A website designed for playing flash games. Here is the link: flashNfun.
 * Website frontend is designed using HTML, CSS and Bootstrap while backend is managed by PHP and MySQL.
