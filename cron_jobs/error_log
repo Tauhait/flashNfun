@@ -1,0 +1,25 @@
+[14-Jun-2017 16:00:01 UTC] PHP Notice:  Undefined variable: no_ofSubscriber in /home/tauhaitdutta/public_html/cron_jobs/incompleteSignup_player.php on line 7
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 07:50:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
+[20-Jun-2017 08:15:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tauhaitdutta/public_html/cron_jobs/top_players.php on line 6
